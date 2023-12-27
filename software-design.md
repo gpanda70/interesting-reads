@@ -1,3 +1,3 @@
 # Software Design
-- [ ] 📖 A Philosophy of Software Design *second edition* (John Ousterhout 2022)
-- [ ] 📖 Tidy First (Kent Beck 2023)
+- [ ] 📖 A Philosophy of Software Design *second edition* (J Ousterhout 2022)
+- [ ] 📖 Tidy First (K Beck 2023)
