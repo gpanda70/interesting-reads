@@ -1,4 +1,7 @@
 # Databases
+- [ ] 📄 [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741)
+- [ ] 📄 [Amazon Redshift Re-invented](https://assets.amazon.science/93/e0/a347021a4c6fbbccd5a056580d00/sigmod22-redshift-reinvented.pdf)
+- [ ] 📄 [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
 - [ ] 📄 [ByteGraph: A High-Performance Distributed Graph Database in ByteDance](https://vldb.org/pvldb/vol15/p3306-li.pdf)
 - [ ] 📄 [DuckDB: an Embeddable Analytical Database](https://mytherin.github.io/papers/2019-duckdbdemo.pdf)
 - [ ] 📄 [DuckPGQ: Efficient Property Graph Queries in an analytical RDBMS](https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf)
