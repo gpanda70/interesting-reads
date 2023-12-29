@@ -8,5 +8,5 @@
 - [ ] 📄 [KÙZU∗ Graph Database Management System](https://www.cidrdb.org/cidr2023/papers/p48-jin.pdf)
 - [x] 🔗 [Debate: Graph databases don't provide a significant advantage over well-architected relational DBs for most use cases](https://www.theregister.com/Debates/2023/03/06/great_graph_debate/)
 - [x] 🔗 [Index-Free Adjacency](https://thomasvilhena.com/2019/08/index-free-adjacency)
-- [ ] 🔗 [How Query Engines Work](https://howqueryengineswork.com/00-acknowledgments.html)
+- [ ] 📖 [How Query Engines Work](https://howqueryengineswork.com/00-acknowledgments.html)
 - [ ] 📄 [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf)
