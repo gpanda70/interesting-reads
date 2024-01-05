@@ -10,3 +10,5 @@
 - [x] 🔗 [Index-Free Adjacency](https://thomasvilhena.com/2019/08/index-free-adjacency)
 - [ ] 📖 [How Query Engines Work](https://howqueryengineswork.com/00-acknowledgments.html)
 - [ ] 📄 [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf)
+- [ ] 📄 [Volcano-An Extensible and Parallel Query Evaluation System](https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf)
+- [ ] 📄 [Cypher: An Evolving Query Language for Property Graphs](https://hal.science/hal-01803524/document)
