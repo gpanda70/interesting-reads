@@ -3,5 +3,6 @@
  - [ ] 📖 The Staff Engineer's Path (T Reilly 2022)
  - [ ] 📖 The Pragmatic Programmer *20th anniversary edition* (D Thomas, A Hunt 2019)
  - [ ] 🔗 [Tech Lead Task List](https://news.ycombinator.com/item?id=28411483)
+ - [ ] 🔗 [Farnam Street blog](https://fs.blog)
  - [ ] 📄 [Teaching the science of learning](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y)
  - [ ] 📄 [Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology](https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full)
